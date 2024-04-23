@@ -1,2 +1,2 @@
 GetwrongWay.
-Don´t look or even talk to me :-(
+If(notfriends) printf(“ByeBye\n”); else printf(“Hello world”);
